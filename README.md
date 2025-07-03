@@ -7,7 +7,7 @@ An ML project by Syed Wasif Dawood
 # Planning Phase
 ## Defining the problem 
 * Scope of Interest
-  * Live Race Predictions? or Pre-Race Predictions --tentative choice = Pre-Race Predictions however Live Race Predictions would be cool, will discuss with Andrew
+ * Live Race Predictions? or Pre-Race Predictions --tentative choice = Pre-Race Predictions however Live Race Predictions would be cool, will discuss with Andrew
   * There are several factors that contribute to race outcomes, which factors have the highest impact on race outcomes? (This is a problem in itself..)
     * Possible key factors:
       * Qualifying Results: Grid position, Gaps in results
